@@ -1,6 +1,7 @@
 # Calcul
 
-Application de démonstration pour le erlang meetup #1 de Paris
+Application de démonstration pour le [Erlang Meetup #2](http://www.meetup.com/fr-FR/Erlang-Paris/events/219110867/) de Paris
+Mise à jour pour un [BBL](http://www.brownbaglunch.fr/) chez [Les Furets](lesfurets.com )
 
 ###But
 Transformer un programme simple pour qu'il tourne sur plusieurs neuds.
